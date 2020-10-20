@@ -1,0 +1,12 @@
+Starting Telephone with 10 MPI Ranks...
+MPI rank 0 starting message: Babbling bubbles 
+MPI rank 1 received message: BabblingJbubbles
+MPI rank 2 received message: garghingJbubbles
+MPI rank 3 received message: garghigarghbbles
+MPI rank 4 received message: garbleghrghbbles
+MPI rank 5 received message: gOrbleghrghbbles
+MPI rank 6 received message: gOrbleghrghbblee
+MPI rank 7 received message: gOrbleghrgbleghe
+MPI rank 8 received message: gOrbleghrdbleghe
+MPI rank 9 received message: gOgarghhrdbleghe
+MPI rank 0 received message: gOgarghhgarghghe
